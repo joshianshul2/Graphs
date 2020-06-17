@@ -31,7 +31,7 @@ int main()
     for(int i=0;i<V;i++)
     {
         edges[i]=new int [V];
-    for(int j=0;j<E;j++)
+    for(int j=0;j<V;j++)
     {
         edges[i][j]=0;
     }
